@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**sheepsheep-sleep/sheepsheep-sleep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Yangyang Zheng 👋
 
-Here are some ideas to get you started:
+### Embodied AI | Robotics | Vision-Language-Action
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in building intelligent robots that can perceive,
+reason, and interact with the physical world.
+
+## 🔬 Research Interests
+
+- Vision-Language-Action (VLA) Models
+- World Action Models (WAM)
+- Egocentric Human Videos to Robot Actions
+- Dexterous Manipulation
+- Human-Robot Collaboration
+
+
